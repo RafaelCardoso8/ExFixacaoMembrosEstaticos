@@ -8,7 +8,7 @@ namespace ExFixaçãoMembrosEstaticos
         static void Main(string[] args)
         {
             double cotação, quantia;
-            Console.WriteLine("Olá. Vamos te ajudar a converter o dolar. É só seguir as instruções.");
+            Console.WriteLine("Olá. Vamos te ajudar a descobrir quantos reais você irá gastar para comparar dólares. É só seguir as instruções.");
             Console.WriteLine();
 
             Console.WriteLine("Qual é a cotação do dólar?");
